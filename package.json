@@ -1,0 +1,30 @@
+{
+  "name": "main-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavithaWebdev/Main_React.git"
+  },
+  "author": "Savitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavithaWebdev/Main_React/issues"
+  },
+  "homepage": "https://github.com/SavithaWebdev/Main_React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2"
+  }
+}
